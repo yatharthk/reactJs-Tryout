@@ -1,2 +1,2 @@
 # reactJs-Tryout 
-based on the net ninja youtube modernreact
+based on udemy and Academind The completeReactAppByAcademind
